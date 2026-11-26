@@ -5,3 +5,4 @@ And apply it in AI engineering
 - Note 4: practiced Python today
 - Note 5: practiced Python today
 - Note 6: practiced Python today
+- Note 7: practiced Python today
