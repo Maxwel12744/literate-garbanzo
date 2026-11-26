@@ -13,7 +13,7 @@ Nationality = input("Enter your nationality: ")
 if Age >= 18 and Nationality.lower() == "kenyan":
     print(f"Hello {Name}, you are eligible to vote.")
 elif Age < 18 and Nationality.lower() == "kenyan":
-    print(f"Hello {Name}, you are not eligible to vote \n Because you are not 18 years old.")
+    print(f"Hello {Name}, you are not eligible to vote \n Because you are not 18 years old \n but you are a kenyan citizen.")
 elif Age >= 18 and Nationality.lower() != "kenyan":
     print(f"Hello {Name}, you are not eligible to vote \n Because you are not a Kenyan citizen.")
 else:   
