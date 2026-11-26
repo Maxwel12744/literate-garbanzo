@@ -9,3 +9,5 @@ except ValueError:
 else:
  print("THE SUM IS:", Add(a, b))
  print("THE PRODUCT IS: ", Mul(a, b))
+finally:
+    print("Thank you for using the calculator.") 
