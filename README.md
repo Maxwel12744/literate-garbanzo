@@ -7,3 +7,4 @@ And apply it in AI engineering
 - Note 6: practiced Python today
 - Note 7: practiced Python today
 - Note 8: practiced Python today
+- Note 9: practiced Python today
