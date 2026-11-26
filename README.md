@@ -10,3 +10,4 @@ And apply it in AI engineering
 - Note 9: practiced Python today
 - Note 10: practiced Python today
 - Note 11: practiced Python today
+- Note 12: practiced Python today
