@@ -1,3 +1,3 @@
-student=["Alice", "Bob", "Charlie"]
-for s in student:
+students=["Alice", "Bob", "Charlie"]
+for s in students:
     print(s)
