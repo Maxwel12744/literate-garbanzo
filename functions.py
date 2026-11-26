@@ -4,5 +4,5 @@ def Sum (a , b):
     
     result= a+b
     return result
-Sum()
+Sum(a ,b)
 print("THE SUM IS:", Sum)
