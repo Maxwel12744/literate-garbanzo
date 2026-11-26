@@ -1,5 +1,5 @@
 from mymath  import Add,Mul
-import math
+import mymath
 
 
 print(mymath.Add(4, 5))
