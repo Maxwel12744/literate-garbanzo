@@ -1,6 +1,8 @@
 
 def Add(a, b):
-    return a + b
+    result= a + b
+    return result
 
 def Mul(a, b):
-    return a * b
+    result= a * b
+    return result
