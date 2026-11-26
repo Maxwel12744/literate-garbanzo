@@ -14,3 +14,4 @@ And apply it in AI engineering
 - Note 13: practiced Python today
 - Note 14: practiced Python today
 - Note 15: practiced Python today
+- Note 16: practiced Python today
