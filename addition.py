@@ -1,6 +1,6 @@
-from math  import Add,Mul
+from mymath  import Add,Mul
 import math
 
 
-print(math.Add(4, 5))
-print(math.Mul(4, 5))
+print(mymath.Add(4, 5))
+print(mymath.Mul(4, 5))
